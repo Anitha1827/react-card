@@ -1,7 +1,7 @@
 // import logo from './logo.svg';
 import { useState } from 'react';
 import './App.css';
-import 'font-awesome/css/font-awesome.min.css';
+// import 'font-awesome/css/font-awesome.min.css';
 // import { FaBeer } from "react-icons/fa";
 function App() {
 
